@@ -11,10 +11,17 @@
             "id": "19924a775b063f50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Main (tori)/Locations/Ipsilon History.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Ipsilon History"
             }
           }
         ]
@@ -162,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c445c88fb335ac0",
+  "active": "19924a775b063f50",
   "lastOpenFiles": [
+    "Main (tori)/Characters/Queen's Lore.canvas",
     "Main (tori)/Metaphysics/Magic.md",
     "Main (tori)/Metaphysics/Oneiromancy.md",
     "Main (tori)/Metaphysics/00.Metaphysics.md",
@@ -197,7 +204,6 @@
     "Main (tori)/Characters/Harvey Silversong.md",
     "Main (tori)/Characters/Corsica Silversong.md",
     "Main (tori)/Characters/Vira Silversong.md",
-    "Main (tori)/Characters/Queen's Lore.canvas",
     "Main (tori)/Characters/Marcus.md",
     "Main (tori)/Characters/Nara Belleciao.md",
     "Main (tori)/Assets/wheel.jpg",
@@ -208,7 +214,6 @@
     "Main (tori)/Objects/00.Objects.md",
     "Main (tori)/Locations/Ipsilon History.canvas",
     "Main (tori)/Locations/A Moment of Silence.md",
-    "Main (tori)/Locations/Eclipta.md",
     "Main (tori)/Metaphysics",
     "Main (tori)/Events",
     "Main (tori)/Characters",
