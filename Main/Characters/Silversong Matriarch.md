@@ -1,0 +1,3 @@
+qi cannout expect to write a masterpiece without first giving myself some structure.
+
+the silversong is a night hag that has sought great power through great ambition, she has curated a coven of hags and changelings that uses her own namesake as a surname. she wields her power great and bloodily, her main goal being to further her own power and influence, by expanding the reach of her coven and by raising more heirs and extending her family
