@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5308e9e8012dafcb",
+        "id": "f8dc45abf6989cd5",
         "type": "tabs",
         "children": [
           {
-            "id": "19924a775b063f50",
+            "id": "ecd50eccf4cd37e4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main (tori)/Locations/Ipsilon History.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Main (tori)/Characters/Calypso Silversong.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ipsilon History"
+              "icon": "lucide-file",
+              "title": "Calypso Silversong"
             }
           }
         ]
@@ -183,8 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19924a775b063f50",
+  "active": "ecd50eccf4cd37e4",
   "lastOpenFiles": [
+    "Main (tori)/Characters/Ballista Silversong.md",
+    "Main (tori)/Characters/Calypso Silversong.md",
+    "Main (tori)/Locations/Ipsilon History.canvas",
     "Main (tori)/Characters/Queen's Lore.canvas",
     "Main (tori)/Metaphysics/Magic.md",
     "Main (tori)/Metaphysics/Oneiromancy.md",
@@ -197,10 +197,8 @@
     "Main (tori)/Characters/Historia Castleheart.md",
     "Main (tori)/Characters/Tailor Silversong.md",
     "Main (tori)/Characters/Silversong Matriarch.md",
-    "Main (tori)/Characters/Calypso Silversong.md",
     "Main (tori)/Characters/00.Characters.md",
     "Main (tori)/Characters/Frisier.md",
-    "Main (tori)/Characters/Ballista Silversong.md",
     "Main (tori)/Characters/Harvey Silversong.md",
     "Main (tori)/Characters/Corsica Silversong.md",
     "Main (tori)/Characters/Vira Silversong.md",
@@ -212,7 +210,6 @@
     "Main (tori)/Assets/calypso.jpg",
     "Main (tori)/Objects/Abyssoscarab.md",
     "Main (tori)/Objects/00.Objects.md",
-    "Main (tori)/Locations/Ipsilon History.canvas",
     "Main (tori)/Locations/A Moment of Silence.md",
     "Main (tori)/Metaphysics",
     "Main (tori)/Events",

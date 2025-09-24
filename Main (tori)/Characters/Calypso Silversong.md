@@ -1,3 +1,7 @@
+---
+Character: This is a character
+Silversong: This is a child of the Silversong Matriarch
+---
 <span style="font-size: 3em; line-height: 1; vertical-align: middle; margin-right: 0.1em;">❝</span> If you have something the big dogs want they'll never get rid of you.
 
 |                        | ![[calypso.jpg\|200 ]]                                    |
