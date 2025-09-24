@@ -29,10 +29,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Main/Characters/00.Characters.md": "LiAlignLeft",
-  "Main/Locations/00.Locations.md": "LiAlignLeft",
-  "Main/Objects/00.Objects.md": "LiAlignLeft",
-  "Main/Metaphysics/00.Metaphysics.md": "LiAlignLeft",
-  "Main/Events/00.Events.md": "LiAlignLeft"
+  }
 }
