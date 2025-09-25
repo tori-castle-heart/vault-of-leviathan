@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main (wells)/The Party/The Indentured.md",
+                "file": "Main (tori)/Characters/00.Characters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Indentured"
+              "title": "00.Characters"
             }
           }
         ]
@@ -193,25 +193,28 @@
   },
   "active": "0587c3d080f91401",
   "lastOpenFiles": [
+    "Main (tori)/Characters/Nara Belleciao.md",
+    "Main (tori)/Characters/Brax Tugor.md",
+    "Main (tori)/Characters/Suze Theodoris.md",
+    "Main (tori)/Campaign/Campaign 3.md",
+    "Main (tori)/Campaign/Campaign 2.md",
+    "Main (tori)/Campaign/Campaign 1.md",
+    "Main (wells)/The Party/The Indentured.md",
     "Main (tori)/Characters/Calypso Silversong.md",
     "Main (tori)/Characters/00.Characters.md",
     "Wizard.md",
-    "Main (wells)/The Party/The Indentured.md",
-    "Main (wells)/Characters/Urgen Roth.md",
+    "Main (tori)/Characters/Urgen Roth.md",
     "Main (wells)/The Party/Maris Spy Party.md",
     "Main (wells)/The Party/The Crawlers.md",
     "Main (tori)/Campaign/desktop.ini",
     "Main (tori)/Campaign",
     "Untitled/desktop.ini",
     "Untitled",
-    "Main (wells)/Characters/Theodoris.md",
-    "Main (wells)/Characters/Suze Theodoris.md",
-    "Main (wells)/Characters/Brax Tugor.md",
+    "Main (tori)/Characters/Theodoris.md",
     "Untitled.base",
     "Untitled 1.base",
     "Main (wells)/Continents/Zoler/Angelus/Angelus.md",
     "Main (wells)/Locations/Angelus/Ardent Bled.md",
-    "Main (wells)/Campaign 3.md",
     "Bertrand.md",
     "Main (wells)/Characters/Other Lore/Historia.md",
     "Vult.md",
@@ -222,10 +225,7 @@
     "Main (tori)/Events/Roadside Ambush.md",
     "Main (wells)/Characters/Campaign 3/Covenant.md",
     "Widgeon.md",
-    "Sumner.md",
-    "Main (wells)/Campaign 1.md",
-    "Main (wells)/Characters/Campaign 1/Calypso Silversong.md",
-    "Main (tori)/Characters/Queen's Lore.canvas",
+    "Queen's Lore.canvas",
     "Main (wells)/Continents/Ipsilon",
     "Main (wells)/Continents/Wanakena",
     "Main (wells)/Continents/Aurilian",
