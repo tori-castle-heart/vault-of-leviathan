@@ -1,5 +1,5 @@
 
-Taking place three weeks after [[Campaign 1]]. It follows[[ Calypso Silversong]] as she is tasked with traveling to the major settlements of [[Angelus]] in order to prepare [[Maris]] for the imminent civil war.
+Taking place three weeks after [[Campaign 1]]. It follows[[ Calypso Silversong]] as she is tasked with traveling to the major settlements of [[Main (wells)/Continents/Zoler/Angelus/Angelus]] in order to prepare [[Maris]] for the imminent civil war.
 
 Over the course of the campaign Calypso traveled to the cities of:
 * [[T'Crace]]
@@ -19,7 +19,7 @@ Calypso lives in a small residence in the city outskirts, the best available giv
 
 Upon receiving a summons, Calypso meets with Maris's mayor, [[Adrian Dumpho]], and a former noble of the Citadel, [[Webster Bryant]]. They inform Calypso about the impending civil war and Maris's unusual position. They ask Calypso to gather information from Angelus's major cities about their alignment to better Maris's position. 
 
-Calypso was chosen for this task after previous involvement with the Mayor and Bryant in Campaign 1. She is the only member of The Indentured available for the task as [[Aleksei von Nuye]] is now a high ranking [[inquisitor]] of [[Abadar]], [[Dorovan Divitae]] left the city on a quest of discovery, [[Eden]] and [[Jean Clover]] seemingly vanished, and [[Gradius McKobold]] is imprisoned and awaiting trial.
+Calypso was chosen for this task after previous involvement with the Mayor and Bryant in Campaign 1. She is the only member of The Indentured available for the task as [[Aleksei von Nuye]] is now a high ranking [[Inquisitor]] of [[Abadar]], [[Dorovan Divitae]] left the city on a quest of discovery, [[Eden]] and [[Jean Clover]] seemingly vanished, and [[Gradius McKobold]] is imprisoned and awaiting trial.
 
 Calypso accepts the job, and leaves to recruit a team. She ends up recruiting her roommates, Vult and Sumner, and Paracelsus the [[Alchemist]] from the business next to Widgeon's. She is also tracked down by the towering Sergeant Major Bertrand, the aging martial of Maris who offers to come along with as a quartermaster to explore the nation one last time. With a party assembled, the [[Maris Spy Party]] leaves Maris.
 

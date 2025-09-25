@@ -1,4 +1,4 @@
-When [[Calypso Silversong|Calypso]] first returned from [[A Moment of Silence]], she was initially visited to [Verplanck], a city within the [Al-Rackic] region of [[Angelus]]. To anyone who is not the author of this story, none of these names will make any sense, but tl;dr:
+When [[Calypso Silversong|Calypso]] first returned from [[A Moment of Silence]], she was initially visited to [Verplanck], a city within the [Al-Rackic] region of [[Main (tori)/Locations/Angelus]]. To anyone who is not the author of this story, none of these names will make any sense, but tl;dr:
 	Calypso has finally escaped her long exile in the lower reaches of Hell and the Abyss, and her newfound patron, [[Historia Castleheart]], has allowed her safe passage back into the material plane, upon the Al-Rackic peninsula, her home region. The city she is placed closest to is Verplanck, a minor trading city.
 
 Upon arriving, the first thing Calypso secures for herself is a nice room in an inn, a strong lock from a locksmith, 
