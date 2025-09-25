@@ -10,7 +10,7 @@ As of [[Campaign 1]], King Brax has died, leaving his young son in control of th
 **Major Cities**
 - [[Angelus (City)]]
 - [[Maris]]
-- The [[Citadel]]
+- [[Citadel]]
 - [[T'Crace]]
 - [[Gostrin]]
 - [[Graydier]]
