@@ -1,10 +1,10 @@
 Party consisting of:
-* [[Harvey SIlversong]] the [[Fighter]]
-* [[Ozro Lutumos]], the [[Oracle]]
-* [[Al-Eksai]], the [[Wizard]]
-* [[Adran]], the [[Champion]]
+* [[Harvey SIlversong]] the Fighter
+* [[Ozro Lutumos]], the Oracle
+* [[Al-Eksai]], the Wizard
+* [[Adran]], the Champion
 * [[Gravion McKobold]]
-* [[Jarquavis]], the [[Rogue]]
+* [[Jarquavis]], the Rogue
 
 Companions were:
 * [[Warden]]
