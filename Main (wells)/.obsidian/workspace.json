@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "0be495ec5e59adad",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb6d59cae6ac6d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b46a770e77ff3aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a675d4f63639aea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaea11be6d1efee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f432b98996b6a273",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e0245ed0261d593",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc33e48d3386f1d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "893dbf01beb26567",
+    "type": "split",
+    "children": [
+      {
+        "id": "0536f9b4f3abc342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "645c67ff61b40e64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Campaign 3"
+            }
+          },
+          {
+            "id": "38e723653f3e2e80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Campaign 3"
+            }
+          },
+          {
+            "id": "c5b9226b8e41f672",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a17ad6bcc75b665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Campaign 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7b46a770e77ff3aa",
+  "lastOpenFiles": [
+    "Locations/Angelus/Citadel.md",
+    "Characters/Gods/Asmodeus.md",
+    "TItles/Citadel Council.md",
+    "Locations/Angelus/Citadel",
+    "Countries/Angelus/Angelus.md",
+    "Countries/Aldritch Republic.md",
+    "Classes/Classes.md",
+    "Important Events/Angelian Unification War.md",
+    "Important Events",
+    "Characters/Campaign 3/Zudon Ridley.md",
+    "United Olegarion Navy.md",
+    "Countries/Savron.md",
+    "Countries/Naga.md",
+    "Countries/Gadzons Union.md",
+    "Countries/The Rathan Republic.md",
+    "Continents/Olegarion.md",
+    "Continents",
+    "Countries/Angelus/Angelian Army.md",
+    "Locations/Angelus",
+    "Ardent Bled.md",
+    "Locations/Angelus/Graydier.md",
+    "Locations/Angelus/Gostrin.md",
+    "Locations/Angelus/Angelus (City).md",
+    "Countries/Angelus",
+    "Locations/Angelus/Al-Rackic Peninsula.md",
+    "Characters/Brax Tugor.md",
+    "TItles/King.md",
+    "Countries/Leviathan/Leviathan.md",
+    "Countries/Leviathan",
+    "Countries/Leviathan/Leviathan Navy.md",
+    "Countries/Leviathan/Leviathan Army.md",
+    "Countries/The Zidren Desert.md",
+    "Characters/Other Lore",
+    "Characters/Campaign 3",
+    "TItles",
+    "Characters/Campaign 2",
+    "Untitled.canvas"
+  ]
+}
